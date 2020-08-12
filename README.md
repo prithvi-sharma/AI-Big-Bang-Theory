@@ -24,4 +24,6 @@ Link :- <a href="https://github.com/openai/gpt-2">GPT-2</a>
 ## Thanks for Reading
 The script is in the script folder and some interesting output and conversations are in the other folder. You can leave a comment of whatever you wanna try and I will get back to you ASAP 😉.
 
+Also you can check out same project on my portfolio here -> <a href="https://sites.google.com/view/prithvieportfolio/project-page/ai-big-bang-theory" alt="AI Big Bang Theory"><img src="https://image.flaticon.com/icons/svg/975/975645.svg" width=19px></a>
+
 <strong>Cheers.</strong>
