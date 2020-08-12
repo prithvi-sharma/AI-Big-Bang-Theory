@@ -1,5 +1,4 @@
 # AI-Big-Bang-Theory
-Script of a Big Bang Theory episode written by AI (GPT2)
 
 The project had an initial idea of building a text prediction model like normal mobile keyboards. Then I fount out about GPT-2 and tried it instead of LSTM for the first time. I made this model with using '355M' and got the transcipts from https://bigbangtrans.wordpress.com
 
