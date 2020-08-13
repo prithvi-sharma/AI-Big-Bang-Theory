@@ -23,6 +23,14 @@ GPT-2 displays a broad set of capabilities, including the ability to generate co
 Link :- <a href="https://github.com/openai/gpt-2">GPT-2</a>
 <hr>
 
+# Script
+<object data="https://github.com/prithvi-sharma/AI-Big-Bang-Theory/blob/master/Script/AI%20Big%20Bang%20Theory.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/prithvi-sharma/AI-Big-Bang-Theory/blob/master/Script/AI%20Big%20Bang%20Theory.pdf">
+        <p>PDF Script: - <a href="https://github.com/prithvi-sharma/AI-Big-Bang-Theory/blob/master/Script/AI%20Big%20Bang%20Theory.pdf">AI BIg Bang Theory Script</a>.</p>
+    </embed>
+</object>
+<hr>
+
 ## Thanks for Reading
 The script is in the script folder and some interesting output and conversations are in the other folder. You can leave a comment of whatever you wanna try and I will get back to you ASAP 😉.
 
