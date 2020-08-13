@@ -37,6 +37,6 @@ The script is in the script folder and some interesting output and conversations
 <strong>Also you can check out same project on my portfolio here -> </strong><a href="https://sites.google.com/view/prithvieportfolio/project-page/ai-big-bang-theory" alt="AI Big Bang Theory"><img src="https://image.flaticon.com/icons/svg/975/975645.svg" width=19px></a>
 
 <p align="center">
-<img src="https://media1.tenor.com/images/475f0154c049721e4b4ef126749e7aac/tenor.gif" width="70%"></p>
+<img src="https://media1.tenor.com/images/475f0154c049721e4b4ef126749e7aac/tenor.gif" width="80%"></p>
 
 <strong>Cheers.</strong>
