@@ -1,5 +1,5 @@
 # AI-Big-Bang-Theory
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![DOI](https://zenodo.org/badge/286662027.svg)](https://doi.org/10.5281/zenodo.17603308)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![DOI](https://zenodo.org/badge/286662027.svg)](https://doi.org/10.5281/zenodo.17603308)
 
 <img src="https://78.media.tumblr.com/0bf1a3a2bfe9978bf55d0af993bf4131/tumblr_p6ghogSTk91wfkg1xo1_500.gif" width="100%">
 
